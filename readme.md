@@ -1,3 +1,9 @@
+# To set this up with the provided sh script run the following command
+
+```bash
+curl -s https://raw.githubusercontent.com/jeffreyzhang2002/gcc_wrap/master/setup.sh | bash
+```
+
 # Example
 
 This is an example of how to use the linker wrap command.
